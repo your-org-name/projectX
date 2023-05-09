@@ -1,1 +1,2 @@
 # projectX
+Generic example project!
