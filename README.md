@@ -1,2 +1,2 @@
 # projectX
-Generic example project!
+Demo example project!
